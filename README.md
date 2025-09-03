@@ -2,6 +2,8 @@
 
 # Tiny Tapeout Wokwi Project Template
 
+  Wokwi project implementing a single cell of a BitGrid
+
 - [Read the documentation for project](docs/info.md)
 
 ## What is Tiny Tapeout?
