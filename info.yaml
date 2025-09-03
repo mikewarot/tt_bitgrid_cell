@@ -16,7 +16,7 @@ project:
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
-  ui[0]: ""
+  ui[0]: "lut_shift_input"
   ui[1]: ""
   ui[2]: ""
   ui[3]: ""
@@ -26,14 +26,14 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
-  uo[2]: ""
-  uo[3]: ""
-  uo[4]: ""
-  uo[5]: ""
-  uo[6]: ""
-  uo[7]: ""
+  uo[0]: "led_a"
+  uo[1]: "led_b"
+  uo[2]: "led_c"
+  uo[3]: "led_d"
+  uo[4]: "led_e"
+  uo[5]: "led_f"
+  uo[6]: "led_g"
+  uo[7]: "dot"
 
   # Bidirectional pins
   uio[0]: ""
